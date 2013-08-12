@@ -1,4 +1,4 @@
 wp_chrome_logger
 ================
 
-Wordpress plugin to log variables to the JavaScript console log using ChromePhp
+Wordpress plugin to log variables to the JavaScript console log in Chrome devtools using ChromePhp.
