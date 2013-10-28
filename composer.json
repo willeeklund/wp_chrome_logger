@@ -1,0 +1,8 @@
+{
+  "name": "willeeklund/wp_chrome_logger",
+  "description": "Chrome logger plugin to Wordpress.",
+  "keywords": ["wordpress", "plugin", "debug"],
+  "license": "proprietary",
+  "type": "wordpress-plugin",
+  "author": "Wilhelm Eklund"
+}
